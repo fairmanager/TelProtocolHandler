@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"idleberg.innosetup",
+			"ms-vscode.csharp"
+		]
+	}
+}

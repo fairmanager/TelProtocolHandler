@@ -1,5 +1,12 @@
 root = true
 
+[*]
+end_of_line = lf
+
+[*.{bat,cmd,cs,csproj,h,msbuild,ps1,sln,tt,xaml}]
+end_of_line = crlf
+
 [*.cs]
-indent_style = space
-indent_size = 2
+charset = utf-8
+indent_style = tab
+insert_final_newline = true

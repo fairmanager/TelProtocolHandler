@@ -1,6 +1,6 @@
 @ECHO OFF
 SETLOCAL
-SET SOLUTION_FILENAME=TelProtocolHandler.sln
+SET SOLUTION_FILENAME=ClickToDial.sln
 IF EXIST packages\NuGet.exe (
   SET EnableNuGetPackageRestore=true
   echo Installing NuGet pacakges...
